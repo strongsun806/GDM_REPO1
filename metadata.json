@@ -1,0 +1,8 @@
+{
+  "name": "AccessPilot AI — Autonomous Web Navigator & Live Accessibility Patcher",
+  "description": "Flagship autonomous web navigator and live WCAG 2.2 accessibility patcher powered by Gemini 4 Argon, Web Speech API, and Gemma 4 on-device privacy redaction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
